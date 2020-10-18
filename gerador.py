@@ -145,4 +145,6 @@ class GeradorDados:
 
 
 usuario = GeradorDados()
-usuario.Gerador_Emprestimo()
+# Para preecnher as tabelas é só chamar o método específico.
+# Para a tabela de Livros por exemplo: usuario = Gerador_Livros.
+""" Criar um método Menu, para facilitar a inserção """
